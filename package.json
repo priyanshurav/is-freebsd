@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pr357/is-freebsd.git"
+    "url": "git+https://github.com/priyanshurav/is-freebsd.git"
   },
   "keywords": [
     "freebsd",
@@ -25,12 +25,12 @@
     "os",
     "is-freebsd"
   ],
-  "author": "pr357",
+  "author": "Priyanshu Rav",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pr357/is-freebsd/issues"
+    "url": "https://github.com/priyanshurav/is-freebsd/issues"
   },
-  "homepage": "https://github.com/pr357/is-freebsd#readme",
+  "homepage": "https://github.com/priyanshurav/is-freebsd#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@typescript-eslint/eslint-plugin": "^4.14.1",
