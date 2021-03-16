@@ -1,6 +1,6 @@
 {
   "name": "is-freebsd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool to check if the operating system is FreeBSD or not",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
